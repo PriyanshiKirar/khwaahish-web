@@ -1,14 +1,13 @@
 import React from 'react'
-import Header from './components/Header'
-import Footer from './components/Fooder'
-import Center from './components/center'
+
+import BridalEdit from './components/BridalEdit'
 
 const App = () => {
   return (
     <div>
 
+     <BridalEdit/>
      
-      <Center/>
      
     </div>
     
